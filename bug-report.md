@@ -4,7 +4,7 @@ Link to the issue in Jira (should work for logged-in users): https://alenastavro
 
 ### Description
 
-When a user creates a recipe manually and clicks on “Add to diary”, an error message appears (see the screenshot)
+When a user creates a recipe manually and clicks on “Add to diary”, an error message appears (see the screenshot in the repo)
 
 ### Steps to reproduce:
 

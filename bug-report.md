@@ -1,3 +1,5 @@
+Link to the issue in Jira (should work for logged-in users): https://alenastavrova.atlassian.net/browse/BIF-1
+
 ## User can't add a newly created recipe to diary - Myfitnesspal app
 
 ### Description
